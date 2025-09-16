@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-  <img title="Sakshi Shinde" src="https://github.com/user-attachments/assets/671da9a0-4bfb-43d2-9d57-45ff92984e59" alt="Sakshi Shinde Namecard">
+  <img title="Sakshi Shinde" src="https://github.com/user-attachments/assets/ea9a418c-a343-4214-91f4-a36857c84e5d" alt="Sakshi Shinde Namecard">
 </p>
 
 ---
